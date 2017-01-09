@@ -1,0 +1,10 @@
+.DS_Store
+.gradle/
+.gradle
+build/
+
+# Ignore Intellij Idea config
+*.ipr
+*.iml
+*.iws
+.idea/
