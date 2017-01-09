@@ -1,6 +1,0 @@
-app:
-  env:
-    memcached:
-      basic:
-        host: localhost
-        port: 11211
